@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Furro_Assets.png">
+	<!-- Created with Adobe Animate version 16.0.0.112 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF DOWN0000" x="0" y="0" width="450" height="458"/>
+	<SubTexture name="BF DOWN0001" x="0" y="0" width="450" height="458"/>
+	<SubTexture name="BF DOWN0002" x="450" y="0" width="450" height="458"/>
+	<SubTexture name="BF DOWN0003" x="450" y="0" width="450" height="458"/>
+	<SubTexture name="BF DOWN0004" x="900" y="0" width="450" height="458"/>
+	<SubTexture name="BF DOWN0005" x="900" y="0" width="450" height="458"/>
+	<SubTexture name="BF DOWN0006" x="900" y="0" width="450" height="458"/>
+	<SubTexture name="BF DOWN0007" x="900" y="0" width="450" height="458"/>
+	<SubTexture name="BF DOWN0008" x="900" y="0" width="450" height="458"/>
+	<SubTexture name="BF DOWN0009" x="900" y="0" width="450" height="458"/>
+	<SubTexture name="BF DOWN0010" x="900" y="0" width="450" height="458"/>
+	<SubTexture name="BF DOWN0011" x="900" y="0" width="450" height="458"/>
+	<SubTexture name="BF DOWN0012" x="900" y="0" width="450" height="458"/>
+	<SubTexture name="BF DOWN0013" x="900" y="0" width="450" height="458"/>
+
+	<SubTexture name="BF IDLE0000" x="1350" y="0" width="477" height="457"/>
+	<SubTexture name="BF IDLE0001" x="1350" y="0" width="477" height="457"/>
+	<SubTexture name="BF IDLE0002" x="1827" y="0" width="477" height="457"/>
+	<SubTexture name="BF IDLE0003" x="1827" y="0" width="477" height="457"/>
+	<SubTexture name="BF IDLE0004" x="2304" y="0" width="477" height="457"/>
+	<SubTexture name="BF IDLE0005" x="2304" y="0" width="477" height="457"/>
+	<SubTexture name="BF IDLE0006" x="2781" y="0" width="477" height="457"/>
+	<SubTexture name="BF IDLE0007" x="3258" y="0" width="477" height="457"/>
+	<SubTexture name="BF IDLE0008" x="0" y="458" width="477" height="457"/>
+	<SubTexture name="BF IDLE0009" x="0" y="458" width="477" height="457"/>
+	<SubTexture name="BF IDLE0010" x="0" y="458" width="477" height="457"/>
+	<SubTexture name="BF IDLE0011" x="0" y="458" width="477" height="457"/>
+	<SubTexture name="BF IDLE0012" x="0" y="458" width="477" height="457"/>
+	<SubTexture name="BF IDLE0013" x="0" y="458" width="477" height="457"/>
+	<SubTexture name="BF LEFT0000" x="477" y="458" width="530" height="496"/>
+	<SubTexture name="BF LEFT0001" x="1007" y="458" width="530" height="496"/>
+	<SubTexture name="BF LEFT0002" x="1537" y="458" width="530" height="496"/>
+	<SubTexture name="BF LEFT0003" x="2067" y="458" width="530" height="496"/>
+	<SubTexture name="BF LEFT0004" x="2597" y="458" width="530" height="496"/>
+	<SubTexture name="BF LEFT0005" x="3127" y="458" width="530" height="496"/>
+	<SubTexture name="BF LEFT0006" x="3127" y="458" width="530" height="496"/>
+	<SubTexture name="BF LEFT0007" x="3127" y="458" width="530" height="496"/>
+	<SubTexture name="BF LEFT0008" x="3127" y="458" width="530" height="496"/>
+	<SubTexture name="BF LEFT0009" x="3127" y="458" width="530" height="496"/>
+	<SubTexture name="BF LEFT0010" x="3127" y="458" width="530" height="496"/>
+	<SubTexture name="BF LEFT0011" x="3127" y="458" width="530" height="496"/>
+	<SubTexture name="BF LEFT0012" x="3127" y="458" width="530" height="496"/>
+	<SubTexture name="BF LEFT0013" x="3127" y="458" width="530" height="496"/>
+
+	<SubTexture name="BF RIGHT0000" x="0" y="954" width="533" height="470"/>
+	<SubTexture name="BF RIGHT0001" x="0" y="954" width="533" height="470"/>
+	<SubTexture name="BF RIGHT0002" x="533" y="954" width="533" height="470"/>
+	<SubTexture name="BF RIGHT0003" x="533" y="954" width="533" height="470"/>
+	<SubTexture name="BF RIGHT0004" x="1066" y="954" width="533" height="470"/>
+	<SubTexture name="BF RIGHT0005" x="1066" y="954" width="533" height="470"/>
+	<SubTexture name="BF RIGHT0006" x="1066" y="954" width="533" height="470"/>
+	<SubTexture name="BF RIGHT0007" x="1066" y="954" width="533" height="470"/>
+	<SubTexture name="BF RIGHT0008" x="1066" y="954" width="533" height="470"/>
+	<SubTexture name="BF RIGHT0009" x="1066" y="954" width="533" height="470"/>
+	<SubTexture name="BF RIGHT0010" x="1066" y="954" width="533" height="470"/>
+	<SubTexture name="BF RIGHT0011" x="1066" y="954" width="533" height="470"/>
+	<SubTexture name="BF RIGHT0012" x="1066" y="954" width="533" height="470"/>
+	<SubTexture name="BF RIGHT0013" x="1066" y="954" width="533" height="470"/>
+
+	<SubTexture name="BF UP0000" x="1599" y="954" width="453" height="513"/>
+	<SubTexture name="BF UP0001" x="2052" y="954" width="453" height="513"/>
+	<SubTexture name="BF UP0002" x="2505" y="954" width="453" height="513"/>
+	<SubTexture name="BF UP0003" x="2958" y="954" width="453" height="513"/>
+	<SubTexture name="BF UP0004" x="3411" y="954" width="453" height="513"/>
+</TextureAtlas>
