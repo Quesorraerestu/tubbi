@@ -1,0 +1,11 @@
+{
+	"idle_anim": "sex",
+	"image": "chishashuuuu",
+	"position": [
+		500,
+		60
+	],
+	"flipX": false,
+	"scale": 1.05,
+	"confirm_anim": "sex"
+}
