@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				355,
+				320
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Oh",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "Oh no"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				370,
+				286
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BFTubby_Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				259,
+				285
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFTubby_Right"
+		},
+		{
+			"offsets": [
+				442,
+				283
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BFTubby_Left"
+		},
+		{
+			"offsets": [
+				283,
+				344
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFTubby_UP"
+		},
+		{
+			"offsets": [
+				349,
+				261
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFTubby_Down"
+		},
+		{
+			"offsets": [
+				354,
+				320
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Oh no"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BfTubby-tv",
+	"position": [
+		340,
+		510
+	],
+	"healthicon": "bftele",
+	"flip_x": true,
+	"healthbar_colors": [
+		51,
+		137,
+		168
+	],
+	"camera_position": [
+		860,
+		-485
+	],
+	"sing_duration": 6.1,
+	"scale": 0.99
+}
