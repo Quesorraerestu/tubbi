@@ -11,6 +11,7 @@ function onEvent(name, value1, value2)
         setProperty('healthBar.alpha', targetAlpha);
         setProperty('dadIcon.alpha', targetAlpha);
         setProperty('bfIcon.alpha', targetAlpha);
+        setProperty('scoreTxt.alpha', targetAlpha);
 		else
 			doTweenAlpha('dadIconFadeEventTween', 'dadIcon', targetAlpha, duration, 'linear');
                                                      doTweenAlpha('bfIconFadeEventTween', 'bfIcon', targetAlpha, duration, 'linear');
